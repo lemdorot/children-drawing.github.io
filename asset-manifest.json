@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/children-drawing.github.io/static/css/main.7b240eb8.css",
-    "main.js": "/children-drawing.github.io/static/js/main.8b180153.js",
+    "main.css": "/children-drawing.github.io/static/css/main.2498fb33.css",
+    "main.js": "/children-drawing.github.io/static/js/main.22f7a9db.js",
     "index.html": "/children-drawing.github.io/index.html",
-    "main.7b240eb8.css.map": "/children-drawing.github.io/static/css/main.7b240eb8.css.map",
-    "main.8b180153.js.map": "/children-drawing.github.io/static/js/main.8b180153.js.map"
+    "main.2498fb33.css.map": "/children-drawing.github.io/static/css/main.2498fb33.css.map",
+    "main.22f7a9db.js.map": "/children-drawing.github.io/static/js/main.22f7a9db.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b240eb8.css",
-    "static/js/main.8b180153.js"
+    "static/css/main.2498fb33.css",
+    "static/js/main.22f7a9db.js"
   ]
 }
