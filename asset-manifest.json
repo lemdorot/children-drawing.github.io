@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/children-drawing.github.io/static/css/main.d3fdad0f.css",
-    "main.js": "/children-drawing.github.io/static/js/main.76538ead.js",
+    "main.css": "/children-drawing.github.io/static/css/main.e09227a5.css",
+    "main.js": "/children-drawing.github.io/static/js/main.a3342ba0.js",
+    "static/media/bg.png": "/children-drawing.github.io/static/media/bg.bb30e3cd94ffb010ead2.png",
+    "static/media/sky.png": "/children-drawing.github.io/static/media/sky.4eb7ef9abc2d89ac8b88.png",
+    "static/media/diploma.png": "/children-drawing.github.io/static/media/diploma.93a8f42790ce8bddd129.png",
+    "static/media/waves.svg": "/children-drawing.github.io/static/media/waves.6d284919b65215c6d8f9.svg",
+    "static/media/line.svg": "/children-drawing.github.io/static/media/line.4f07cf2d14208d6ae15f.svg",
     "index.html": "/children-drawing.github.io/index.html",
-    "main.d3fdad0f.css.map": "/children-drawing.github.io/static/css/main.d3fdad0f.css.map",
-    "main.76538ead.js.map": "/children-drawing.github.io/static/js/main.76538ead.js.map"
+    "static/media/check.svg": "/children-drawing.github.io/static/media/check.1ef455351cd1a2c41c9c.svg",
+    "main.e09227a5.css.map": "/children-drawing.github.io/static/css/main.e09227a5.css.map",
+    "main.a3342ba0.js.map": "/children-drawing.github.io/static/js/main.a3342ba0.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3fdad0f.css",
-    "static/js/main.76538ead.js"
+    "static/css/main.e09227a5.css",
+    "static/js/main.a3342ba0.js"
   ]
 }
